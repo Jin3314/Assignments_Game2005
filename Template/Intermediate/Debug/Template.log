@@ -1,0 +1,12 @@
+﻿  PlayScene.cpp
+C:\Users\User\Desktop\학교\Game2005_A1\SDL_Engine-master\src\PlayScene.cpp(215,43): warning C4244: '=': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Desktop\학교\Game2005_A1\SDL_Engine-master\src\PlayScene.cpp(221,43): warning C4244: '=': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+  Template.vcxproj -> C:\Users\User\Desktop\학교\Game2005_A1\SDL_Engine-master\bin\Debug\Template.exe
